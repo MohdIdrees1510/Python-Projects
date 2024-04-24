@@ -1,12 +1,14 @@
 **Simple Basic Chatbot using Python** 
+
 This project is a basic implementation of a chatbot using Python. The chatbot is designed to respond to various user inputs with predefined answers stored in a dictionary.
 
 **Getting Started**
+
 To run the chatbot locally on your machine, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-> git clone https://github.com/your-username/simple-basic-chatbot.git
+> git clone https://github.com/MohdIdrees1510/Python-Projects/blob/main/Simple_Basic_Chatbot_with_Python.ipynb
 
 2. **Navigate to the Directory**: Enter the project directory:
 
@@ -19,6 +21,7 @@ To run the chatbot locally on your machine, follow these steps:
 4. **Interact with the Chatbot**: Once the chatbot is running, you can interact with it by typing your questions or inputs. To exit the chatbot, type quit.
 
 **Usage**
+
 The chatbot responds to various user inputs with predefined answers stored in a dictionary. Here are some example interactions:
 
 > User: Hi
@@ -31,4 +34,5 @@ The chatbot responds to various user inputs with predefined answers stored in a 
 > Chatbot: Of course, here's one for you: Why did the data scientist break up with their significant other? Because they couldn't find a meaningful correlation between them!
 
 **Contributors**
+
 Mohd. Idrees (https://github.com/MohdIdrees1510)
